@@ -26,7 +26,7 @@
   "connectors": [
     {
       "connectorId": "14003fe2-3090-4f43-85fa-ee77cbd99778",
-      "configurationUrl": "https://9aed-103-240-76-52.ngrok.io/connectorConnector/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "configurationUrl": "https://peraksweetteamscon.onrender.com/connectorConnector/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
       "scopes": [
         "team"
       ]
@@ -37,7 +37,7 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "9aed-103-240-76-52.ngrok.io"
+    "peraksweetteamscon.onrender.com"
   ],
   "showLoadingIndicator": false
 }
